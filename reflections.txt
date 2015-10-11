@@ -11,3 +11,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 -- forks copy a repository from others' repository; clones copy a repository from own remote or from a local repository; branches create new branches on the same repository
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+-- maybe help keep tracking of last know state of the remote, and easy to check and/or resolve conflicts if any
